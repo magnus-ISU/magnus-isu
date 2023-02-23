@@ -50,7 +50,6 @@ I am always curious to learn as much as I can about programming and computers, b
  - Go
  - Godot
  - Vulkan
- - Kotlin
  - Zig
 
 ## Ideology
