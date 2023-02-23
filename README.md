@@ -14,10 +14,9 @@ My most important projects are these:
  - [QRcontacts](https://github.com/magnus-ISU/qrcontacts/): Share any contact on your phone using a QR code!
  - [doasedit](https://gitlab.com/magnustesshu/doasedit): A shell script that gives `doas` most of the power of `sudoedit` and `visudo` with a lot more simplicity. I maintain the AUR package for this, too.
 
-Additionally, I've started the following projects, and think they could move up to the above list with more development or effort:
+I've contributed to or started the following projects as well:
 
-I've contributed to the following projects as well:
-
+ - [any2any](https://github.com/magnus-ISU/any2any): A self-updating bash script for converting files from any type to any other.
  - [rust-lolcat-git](https://github.com/ur0/lolcat): Made it handle escape sequences properly. Became a maintainer.
  - [Select Default Application](https://github.com/magnus-ISU/selectdefaultapplication): I have substantially improved this utility, adding search, more rich information about the default applications on their system, better navigation and some bugfixes.
  - [antidot](https://github.com/doron-cohen/antidot/pull/172): Antidot generates some scripts to be run by different shells from a configuration file. I made it generate these on-the-fly rather than having every shell script be generated and written to disk every time you ran the program. I also added support to a new shell, and improved some command-line information it gives you.
